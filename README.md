@@ -10,6 +10,9 @@
 Binance: [Регистрация по реферальной ссылке](https://www.binance.com/en/register?ref=NYGPPWD2)  
 Referal ID: `NYGPPWD2`
 
+#### Контакты:  
+*[Официальная группа Telegram](https://t.me/abot_chat)*  
+
 #### Параметры API настройки:  
 * API-ключи — пара API ключей для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
 * Реферальный ID — Реферальный ID Вашего аккаунта, зарегистрированного по нашему приглашению  
@@ -36,6 +39,3 @@ Referal ID: `NYGPPWD2`
   * `Процент активации трейлинг-стопа` [%] — При каком падении от текущего хай-уровня активировать трейлинг-стоп для частичной/полной продажи. (например 0.5)  
   
 ![](img-2.png)  
-
-#### Контакты:  
-*[Официальная группа Telegram](https://t.me/abot_chat)*  
