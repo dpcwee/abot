@@ -24,7 +24,6 @@ Referal ID: `NYGPPWD2`**
 
 #### Контакты:  
 *[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
-**
 
 #### Параметры API настройки:
 * API ключи — пара API ключей для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
