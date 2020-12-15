@@ -27,7 +27,7 @@ Referal ID: `NYGPPWD2`**
 
 #### Параметры API настройки:
 * API ключи — пара API ключей для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
-* Реферальный ID — Реферальный ID Вашего аккаунта, зарегистрированного по нашему приглашению ([Binance-Referal](https://www.binance.com/ru/activity/referral))  
+* Реферальный ID — Реферальный ID Вашего аккаунта, зарегистрированного по нашему приглашению ([Binance-Referal](https://www.binance.com/ru/my/dashboard))  
 * Уведомления в Telegram — При включенном параметре отправляет уведомления в группу/канал в случае успешной сделки  
   * API-Token — токен, выданный BotFather ([@BotFather](https://t.me/botfather)) при создании Telegram-бота  
   * @NAME — <@ИМЯ_СООБЩЕСТВА> для отправки уведомлений. Бот, созданный на предыдущем шаге, должен состоять в группе/канале и быть её администратором с включенными возможностями публикации сообщений и изменения профиля  
