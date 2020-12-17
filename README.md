@@ -28,10 +28,6 @@ Referal ID: `NYGPPWD2`**
 
 Также, при переносе бота в другую директорию, не забудь перенести файл abot.db вместе с ним.
 
-#### Распространённые ошибки:
-* APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time — системное время и время биржи отличаются более, чем на секунду. Для этого синхронизируйте время в настройках операционной системы, через CMD от имени администратора или с помощью бесплатной утилиты http://www.timesynctool.com/.  
-* A reques to the Telegram API was unsuccessful. Error code: 404. Description: Not Found — Введены неверные данные от Telegram-бота/чата для оповещений.  
-
 #### Контакты:  
 *[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
 
