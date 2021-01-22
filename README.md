@@ -5,6 +5,7 @@
 
 ![](./screen/img-1.png)  
 ![](./screen/img-2.png)  
+![](./screen/img-7.png)  
 
 **ВНИМАНИЕ! БОТ РАБОТАЕТ ТОЛЬКО НА АККАУНТАХ, ЗАРЕГИСТРИРОВАННЫХ ПО РЕФЕРАЛЬНОЙ ССЫЛКЕ РАЗРАБОТЧИКА!  
 Binance: [Регистрация по реферальной ссылке](https://www.binance.com/en/register?ref=NYGPPWD2)  
