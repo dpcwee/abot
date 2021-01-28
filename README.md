@@ -39,7 +39,9 @@ Referal ID: `NYGPPWD2`**
 
 ### Запуск:
 *Windows*: Скачиваете **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest)** и запускаете программу  
-*Linux*: Скачиваете **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**, прописываете файлу права 755 (команда ***chmod 755 A-Bot***, находясь в директории с ботом) и запускаете бота (./A-Bot).
+*Linux*: Скачиваете **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**,  
+заходите в директорию с файлом и прописываете файлу права командой `chmod 755 A-Bot`  
+и запускаете бота `/A-Bot`
 
 ### Обновление:
 *Windows*: Скачиваете новую версию в директорию старого файла (с перезаписью), где находятся файлы бота  
