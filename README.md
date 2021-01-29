@@ -117,5 +117,4 @@ Referal ID: `NYGPPWD2`**
 
 ### Пример работы бота:
 
-![](./screen/img-6.png)  
-![](./screen/img-10.png)  
+![](./screen/img-6.png)![](./screen/img-10.png)  
