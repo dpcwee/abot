@@ -16,6 +16,18 @@ Referal ID: `NYGPPWD2`**
 
 ![](./screen/img-9.png)  
 
+### Контакты:  
+*[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
+
+### Форумы:
+*[Cryptotalk](https://cryptotalk.org/topic/332721-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)*  
+*[Bits.Media](https://forum.bits.media/index.php?/topic/178120-a-bot-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)*  
+*[MiningHub](https://mininghub.cc/threads/474/)*  
+*[Bitcointalk](https://bitcointalk.org/index.php?topic=5301070)*  
+
+### Полезные ссылки:
+*[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* - гайд на получение бесплатного сервера для бота  
+
 ### Обозначения статуса ордеров:
 ![](./screen/img-11.png) — Размещён ордер на покупку  
 ![](./screen/img-12.png) — Ордер на покупку исполнен  
@@ -73,19 +85,7 @@ Referal ID: `NYGPPWD2`**
 
 Бот оплачивает комиссию биржи в BNB, эту опцию он включает автоматически при каждом запуске. Также он постоянно проверяет баланс BNB и докупает токен за BTC в случае, если его количество меньше 0.1, поэтому пользователю необходимо держать баланс в BTC для дозакупки Binance Coin, иначе бот просто не будет совершать новые сделки до тех пор, пока условие не будет истинным.
 
-Также, при переносе бота в другую директорию, не забудь перенести файл abot.db вместе с ним.
-
-### Контакты:  
-*[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
-
-### Форумы:
-*[Cryptotalk](https://cryptotalk.org/topic/332721-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)*  
-*[Bits.Media](https://forum.bits.media/index.php?/topic/178120-a-bot-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)*  
-*[MiningHub](https://mininghub.cc/threads/474/)*  
-*[Bitcointalk](https://bitcointalk.org/index.php?topic=5301070)*  
-
-### Полезные ссылки:
-*[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* - гайд на получение бесплатного сервера для бота  
+Также, при переносе бота в другую директорию, не забудьте перенести файл abot.db вместе с ним.
 
 ### Параметры API настройки:
 * API ключи — пара API ключей для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
