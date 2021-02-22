@@ -64,8 +64,8 @@ Referal ID: `NYGPPWD2`**
 * Не распоряжайтесь активами, которые находятся в работе у бота. Если видите свободный баланс — проверьте монету в терминале, возможно, бот работает по этой монете с активированным трейлингом  
 
 ### Запуск:
-*Windows (только 10-я 64-битная)*: Скачиваете **[A-Bot.exe] или [A-Bot-USDT.exe](https://github.com/dpcwee/abot/releases/latest)** и запускаете программу  
-*Linux (минимум 18.04)*: Скачиваете **[A-Bot] или [A-Bot-USDT](https://github.com/dpcwee/abot/releases/latest)** (`wget https://github.com/dpcwee/abot/releases/download/{VERSION}/A-Bot`, где вместо ***{VERSION}*** указываете последнюю версию),  
+*Windows (только 10-я 64-битная)*: Скачиваете **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest) или [A-Bot-USDT.exe](https://github.com/dpcwee/abot/releases/latest)** и запускаете программу  
+*Linux (минимум 18.04)*: Скачиваете **[A-Bot](https://github.com/dpcwee/abot/releases/latest) или [A-Bot-USDT](https://github.com/dpcwee/abot/releases/latest)** (`wget https://github.com/dpcwee/abot/releases/download/{VERSION}/A-Bot`, где вместо ***{VERSION}*** указываете последнюю версию),  
 прописываете ему права командой `chmod 755 A-Bot` или `chmod 755 A-Bot-USDT`,  
 после чего запускаете командой `/A-Bot` или `/A-Bot-USDT`
 
