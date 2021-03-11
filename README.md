@@ -65,7 +65,7 @@ Referal ID: `NYGPPWD2`**
 
 ### Запуск:
 *Windows (только 10-я 64-битная)*: Скачиваете **[A-Bot-BTC.exe](https://github.com/dpcwee/abot/releases/latest) или [A-Bot-USDT.exe](https://github.com/dpcwee/abot/releases/latest)** и запускаете программу  
-*Linux (минимум 18.04)*: Скачиваете **[A-Bot-BTC](https://github.com/dpcwee/abot/releases/latest) или [A-Bot-USDT](https://github.com/dpcwee/abot/releases/latest)** (`wget https://github.com/dpcwee/abot/releases/download/{ВЕРСИЯ}/{НАЗВАНИЕ_БОТА}`, где вместо ***{ВЕРСИЯ}*** указываете последнюю версию, а вместо ***{НАЗВАНИЕ_БОТА}*** A-Bot-BTC или A-Bot-USDT),  
+*Linux (минимум 18.04)*: Скачиваете **[A-Bot-BTC](https://github.com/dpcwee/abot/releases/latest) или [A-Bot-USDT](https://github.com/dpcwee/abot/releases/latest)** (  `wget https://github.com/dpcwee/abot/releases/download/{ВЕРСИЯ}/{НАЗВАНИЕ_БОТА}`,  где вместо ***{ВЕРСИЯ}*** указываете последнюю версию, а вместо ***{НАЗВАНИЕ_БОТА}*** A-Bot-BTC или A-Bot-USDT),  
 прописываете ему права командой `chmod 755 A-Bot-BTC` или `chmod 755 A-Bot-USDT`,  
 после чего запускаете командой `./A-Bot-BTC` или `./A-Bot-USDT`
 
