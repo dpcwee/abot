@@ -26,6 +26,8 @@ Referal ID: `NYGPPWD2`**
 *[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* — гайд на получение бесплатного сервера для бота  
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
+*[Сводная эксель-таблица доходности]*(https://docs.google.com/spreadsheets/d/1GmRSGlUHzUWBsjTaUjBHimQhNfrCH3BsEIHjQmaETpU/edit?usp=sharing) — Таблица для расчёта примерной будущей доходности бота исходя из текущих значений прибыльности
+*[Лесенка усреднений]*(https://docs.google.com/spreadsheets/d/1BGFvGO6_C43Dlv-QDyzzJ8nCRPEb0zk8w8hsmdQlHaE/edit?usp=sharing) — Расчёт будущих усреднений, исходя из параметров buy_down и step_aver
 
 ### Обозначения статуса ордеров:
 ![](./screen/img-11.png) — Размещён ордер на покупку  
