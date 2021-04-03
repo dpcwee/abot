@@ -26,7 +26,7 @@ Referal ID: `NYGPPWD2`**
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — Таблица для расчёта примерной будущей доходности бота исходя из текущих значений прибыльности  
-*[Лесенка усреднений](https://mega.nz/file/NIpAmABb#skqeEX9i45pSUV53A-R1jS_4zXcXJHN3Z00wM0Uwox8)* — Расчёт будущих усреднений, исходя из параметров buy_down и step_aver  
+*[Лесенка усреднений](https://mega.nz/file/lRwXVKgB#JcHHpK0BrA4Qx3NNyWZtzdFjVbjoal4nhxTI70HoaLY)* — Расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — Расчёт доходности от вложенных средств за выбранный период  
 
 ### Описание стратегии:
