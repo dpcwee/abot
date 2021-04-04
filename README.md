@@ -141,6 +141,8 @@ Referal ID: `NYGPPWD2`**
 * `double_asset` [y/n] — Если ***Y***, бот сможет покупать одну и ту же монету на нескольких котируемых активах (**ADA**/USDT и **ADA**/BTC)  
 
 ![](./screen/img-5.png)  
+![](./screen/img-19.png)  
+![](./screen/img-20.png)  
 
 ### Пример работы бота:
 
