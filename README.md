@@ -73,14 +73,14 @@ Referal ID: `NYGPPWD2`**
 ### Запуск:
 *Windows (только 10-я 64-битная)*: Скачайте **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest)** и запустите программу  
 *Linux (минимум 18.04)*: Скачайте **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**  
-(`wget https://github.com/dpcwee/abot/releases/download/{ВЕРСИЯ}/A-Bot`,  где вместо ***{ВЕРСИЯ}*** укажите последнюю версию),  
+(`wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`,  где вместо ***ВЕРСИЯ*** укажите последнюю версию),  
 дайте ему права командой `chmod 755 A-Bot`, после чего запустите командой `./A-Bot`  
 
 ### Обновление:
 *Windows*: Скачиваете новую версию в директорию со старым файлом (с перезаписью)  
 *Linux*: В директории с ботом вводите команду на удаление старой версии `rm A-Bot`,  
-затем вводите команду `wget https://github.com/dpcwee/abot/releases/download/{ВЕРСИЯ}/A-Bot`,  
-где вместо ***{ВЕРСИЯ}*** указываете последнюю версию, после чего даёте права файлу `chmod 755 ./A-Bot`  
+затем вводите команду `wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`,  
+где вместо ***ВЕРСИЯ*** указываете последнюю версию, после чего даёте права файлу `chmod 755 ./A-Bot`  
 и запускаете его командой `./A-Bot`
 
 ### Работа с screen на Linux:
