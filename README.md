@@ -22,13 +22,13 @@ Referal ID: `NYGPPWD2`**
 *[Cryptotalk](https://cryptotalk.org/topic/332721-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bits.Media](https://forum.bits.media/index.php?/topic/178120-a-bot-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Mining-Hib](https://mininghub.cc/threads/474/)*
 
 ### Полезные ссылки:
-*[abot-config.ru](https://abot-config.ru/)* — пресеты настроек для бота от @YaroslavMolchan  
+*[abot-config.ru](https://abot-config.ru/)* — пресеты настроек для бота от **@YaroslavMolchan**  
 *[abot.su](https://abot.su/panel/)* — Панель просмотра статистики на основе статистики в Telegram  
 *[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* — гайд на получение бесплатного сервера для бота  
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
-*[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от @aeridiph  
-*[Лесенка усреднений](https://mega.nz/file/1YQDzYzL#KLS5n40J6IJ_nHRN5N08qF1fxVVZ1_6l1py_W_JMSzM)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver от @MakBMW  
+*[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от **@aeridiph**  
+*[Лесенка усреднений](https://mega.nz/file/1YQDzYzL#KLS5n40J6IJ_nHRN5N08qF1fxVVZ1_6l1py_W_JMSzM)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver от **@MakBMW**  
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
 
 ### Описание стратегии:
