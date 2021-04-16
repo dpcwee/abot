@@ -8,7 +8,7 @@
 ![](./screen/img-2.png)  
 
 **ВНИМАНИЕ! БОТ РАБОТАЕТ ТОЛЬКО НА АККАУНТАХ, ЗАРЕГИСТРИРОВАННЫХ ПО РЕФЕРАЛЬНОЙ ССЫЛКЕ РАЗРАБОТЧИКА!  
-Binance: [Регистрация по реферальной ссылке](https://www.binance.com/en/register?ref=NYGPPWD2)  
+Binance: [Регистрация по реферальной ссылке](https://accounts.binance.com/ru/register?ref=NYGPPWD2)  
 Referal ID: `NYGPPWD2`**  
 Если у Вас возникли трудности с мультиаккаунтом, свяжитесь с **@dpcwee** в Telegram
 
