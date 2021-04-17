@@ -27,7 +27,7 @@ Referal ID: `NYGPPWD2`**
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
 *[abot-config.ru](https://abot-config.ru/)* — пресеты настроек для бота от *[@YaroslavMolchan](https://t.me/YaroslavMolchan)*  
-*[abot.su](https://abot.su/panel/)* — Панель просмотра статистики на основе статистики в Telegram от *[@DizzyUp](https://t.me/DizzyUp)*  
+*[abot.su](https://abot.su/panel/)* — различная статистика подключенных ботов от *[@DizzyUp](https://t.me/DizzyUp)*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
 *[Лесенка усреднений](https://mega.nz/file/1YQDzYzL#KLS5n40J6IJ_nHRN5N08qF1fxVVZ1_6l1py_W_JMSzM)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver от *[@MakBMW](https://t.me/MakBMW)*  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *@Wex3*    
