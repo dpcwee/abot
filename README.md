@@ -28,7 +28,7 @@ Referal ID: `NYGPPWD2`**
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
-*[abot-config.ru](https://abot-config.ru/)* — пресеты настроек, вайтлисты и полезная информация для бота от *[@YaroslavMolchan](https://t.me/YaroslavMolchan)*  
+*[abot-config.ru](https://abot-config.ru/?utm_source=github&utm_medium=github&utm_campaign=readme)* — пресеты настроек, вайтлисты и полезная информация для бота от *[@YaroslavMolchan](https://t.me/YaroslavMolchan)*  
 *[abot.su](https://abot.su/panel/)* — различная статистика подключенных ботов от *[@DizzyUp](https://t.me/DizzyUp)*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
 *[Лесенка усреднений (Веб-версия)](https://abot-config.ru/calculator)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
