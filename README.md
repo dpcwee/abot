@@ -18,19 +18,21 @@ Referal ID: `NYGPPWD2`**
 ### Контакты:  
 *[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
 
-### Форумы:
-*[Cryptotalk](https://cryptotalk.org/topic/332721-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bits.Media](https://forum.bits.media/index.php?/topic/178120-a-bot-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bitcointalk](https://bitcointalk.org/index.php?topic=5301070)* *[Mining-Hub](https://mininghub.cc/threads/474/)*
+### Полезные ресурсы:
+*[abot-config.ru](https://abot-config.ru/)* *[abot.su](https://abot.su/panel/)*
 
 ### Полезные ссылки:
+*[Полное руководство по запуску бота](https://abot-config.ru/help/install)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
 *[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* — гайд на получение бесплатного сервера для бота  
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
+*[Лесенка усреднений](https://abot-config.ru/calculator)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
-*[abot-config.ru](https://abot-config.ru/)* — пресеты настроек для бота от *[@YaroslavMolchan](https://t.me/YaroslavMolchan)*  
-*[abot.su](https://abot.su/panel/)* — различная статистика подключенных ботов от *[@DizzyUp](https://t.me/DizzyUp)*  
+*[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
-*[Лесенка усреднений](https://mega.nz/file/1YQDzYzL#KLS5n40J6IJ_nHRN5N08qF1fxVVZ1_6l1py_W_JMSzM)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver от *[@MakBMW](https://t.me/MakBMW)*  
-*[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*    
+
+### Форумы:
+*[Cryptotalk](https://cryptotalk.org/topic/332721-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bits.Media](https://forum.bits.media/index.php?/topic/178120-a-bot-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bitcointalk](https://bitcointalk.org/index.php?topic=5301070)* *[Mining-Hub](https://mininghub.cc/threads/474/)*
 
 ### Описание стратегии:
 Бот работает по стратегии усреднения. Суть стратегии заключается в снижении средней цены входа в актив путём увеличения веса позиции в случае, если рыночная стоимость актива снижается по отношению к текущей стоимости ордера. Иными словами, при входе в сделку бот, исходя из пользовательских торговых настроек, размещает ордер на продажу с заданным процентом профита, но если стоимость актива падает по отношению к первой покупке, не достигнув ордера на продажу, и опускается ниже заданного значения в %, бот отменяет ордер на продажу, докупает определённое количество монет, которое всегда больше количества монет в предыдущем отменённом ордере, и размещает новую заявку на продажу по цене (`новая средняя цена покупки` + `% желаемой прибыли`). Таким образом, при падении рыночной стоимости актива бот постоянно анализирует текущие ордера и рыночные данные, сопоставляя условия настроек торговой стратегии и биржевую активность, и докупает монеты, увеличивая их общий объём и снижая новую цену продажи.
