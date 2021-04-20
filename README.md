@@ -10,7 +10,7 @@
 **ВНИМАНИЕ! БОТ РАБОТАЕТ ТОЛЬКО НА АККАУНТАХ, ЗАРЕГИСТРИРОВАННЫХ ПО РЕФЕРАЛЬНОЙ ССЫЛКЕ РАЗРАБОТЧИКА!  
 Binance: [Регистрация по реферальной ссылке](https://accounts.binance.com/ru/register?ref=NYGPPWD2)  
 Referal ID: `NYGPPWD2`**  
-Если у Вас возникли трудности с мультиаккаунтом, свяжитесь с **@dpcwee** в Telegram
+Если у Вас возникли трудности с мультиаккаунтом, свяжитесь с *[@dpcwee](https://t.me/dpcwee)* в Telegram
 
 ### Поддержать печенькой:
 `0x7680b3c00923fe29c62fb157e69187a918a076cd` — сеть BEP20 для любой крипты на Binance  
@@ -23,13 +23,16 @@ Referal ID: `NYGPPWD2`**
 
 ### Полезные ссылки:
 *[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* — гайд на получение бесплатного сервера для бота  
+*[Установка бота на сервер Linux](https://abot-config.ru/help/install)* — подробный гайд по запуску бота на Linux (создания сервера, настройка и запуск бота)
+*[Установка бота на Windows](https://abot-config.ru/help/install-windows)* — __Сейчас нет, буду писать__  
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
 *[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
-*[abot-config.ru](https://abot-config.ru/)* — пресеты настроек для бота от *[@YaroslavMolchan](https://t.me/YaroslavMolchan)*  
+*[abot-config.ru](https://abot-config.ru/)* — пресеты настроек, вайтлисты и полезная информация для бота от *[@YaroslavMolchan](https://t.me/YaroslavMolchan)*  
 *[abot.su](https://abot.su/panel/)* — различная статистика подключенных ботов от *[@DizzyUp](https://t.me/DizzyUp)*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
-*[Лесенка усреднений](https://mega.nz/file/1YQDzYzL#KLS5n40J6IJ_nHRN5N08qF1fxVVZ1_6l1py_W_JMSzM)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver от *[@MakBMW](https://t.me/MakBMW)*  
+*[Лесенка усреднений (Веб-версия)](https://abot-config.ru/calculator)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
+*[Лесенка усреднений (Таблица)](https://mega.nz/file/1YQDzYzL#KLS5n40J6IJ_nHRN5N08qF1fxVVZ1_6l1py_W_JMSzM)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver от *[@MakBMW](https://t.me/MakBMW)*  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*    
 
 ### Описание стратегии:
@@ -74,16 +77,14 @@ Referal ID: `NYGPPWD2`**
 * Не распоряжайтесь активами, которые находятся в работе у бота. Если видите свободный баланс — проверьте монету в терминале, возможно, бот работает по этой монете с активированным трейлингом  
 
 ### Запуск:
-*Windows (только 10-я 64-битная)*: Скачайте **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest)** и запустите программу  
-*Linux (минимум 18.04)*: Скачайте **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**  
-(`wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`,  где вместо ***ВЕРСИЯ*** укажите последнюю версию),  
-дайте ему права командой `chmod 755 A-Bot`, после чего запустите командой `./A-Bot`  
+*Windows (только 10-я 64-битная)*: Скачайте **[A-Bot.exe](http://abot-config.ru/download/A-Bot.exe)** и запустите программу  
+*Linux (минимум 18.04)*: Скачайте **[A-Bot](http://abot-config.ru/download/A-Bot)**  
+(`wget http://abot-config.ru/download/A-Bot`), дайте ему права командой `chmod 755 A-Bot`, после чего запустите командой `./A-Bot`  
 
 ### Обновление:
 *Windows*: Скачиваете новую версию в директорию со старым файлом (с перезаписью)  
 *Linux*: В директории с ботом вводите команду на удаление старой версии `rm A-Bot`,  
-затем вводите команду `wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`,  
-где вместо ***ВЕРСИЯ*** указываете последнюю версию, после чего даёте права файлу `chmod 755 ./A-Bot`  
+затем вводите команду `wget http://abot-config.ru/download/A-Bot`, после чего даёте права файлу `chmod 755 ./A-Bot`  
 и запускаете его командой `./A-Bot`
 
 ### Работа с screen на Linux:
@@ -98,7 +99,7 @@ Referal ID: `NYGPPWD2`**
 * BEP20-кошелёк — адрес человека на Binance в сети Binance Smart Chain (BSC), который рассказал Вам о боте  
 * Уведомления в Telegram — при включенном параметре отправляет уведомления в группу/канал в случае закрытия позиции  
   * API-Token — токен, выданный BotFather ([@BotFather](https://t.me/botfather)) при создании Telegram-бота  
-  * @name — <@name> или <chat_id> для отправки уведомлений. Бот, созданный на предыдущем шаге, должен состоять в группе/канале и быть её администратором с включенными возможностями публикации сообщений и изменения профиля  
+  * @name — <@name> или <chat_id> для отправки уведомлений. Бот, созданный на предыдущем шаге, должен состоять в группе/канале и быть её администратором с включенными возможностями публикации сообщений и изменения профиля
 
 ![](./screen/img-7.png)  
 
