@@ -22,11 +22,10 @@ Referal ID: `NYGPPWD2`**
 *[abot-config.ru](https://abot-config.ru/)* *[abot.su](https://abot.su/panel/)*
 
 ### Полезные ссылки:
-*[Полное руководство по запуску бота](https://abot-config.ru/help/install)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
+*[Полное руководство по запуску бота](https://abot-config.ru/help/install?utm_source=github&utm_medium=github&utm_campaign=readme)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
 *[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* — гайд на получение бесплатного сервера для бота  
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
-*[Лесенка усреднений](https://abot-config.ru/calculator)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
-*[Калькулятор усреднений](https://ihakimov.ru/calcmid/)* — калькулятор усреднений  
+*[Калькулятор усреднений](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver   
 *[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
