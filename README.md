@@ -19,8 +19,8 @@ Referal ID: `NYGPPWD2`**
 *[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
 
 ### Полезные ресурсы:
-*[abot-config.ru](https://abot-config.ru/) от **@YaroslavMolchan***  
-*[abot.su](https://abot.su/panel/) от **@DizzyUp***
+*[abot-config.ru](https://abot-config.ru/) от *[@YaroslavMolchan](https://t.me/yaroslavmolchan)**  
+*[abot.su](https://abot.su/panel/) от *[@DizzyUp](https://t.me/dizzyup)**
 
 ### Полезные ссылки:
 *[Полное руководство по запуску бота](https://abot-config.ru/help/install?utm_source=github&utm_medium=github&utm_campaign=readme)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
