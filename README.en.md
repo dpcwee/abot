@@ -1,4 +1,5 @@
-## A-Bot [RU](README.md) 
+## A-Bot  
+[Перейти на русскую версию](README.md) 
 
 **The project has no other official sites with repositories and contacts, except for GitHub and Telegram!**  
 **A-Bot does not work on US accounts and IP!**  
