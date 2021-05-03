@@ -7,7 +7,7 @@
 A-Bot is a free spot bot for algorithmic multicurrency trading on Binance, supporting manual and fully automated trading.    
 
 ![](./screen/1_en.png)  
-![](./screen/img-2.png)  
+![](./screen/2_en.png)  
 
 **IMPORTANT! BOT WORKS ONLY ON ACCOUNTS REGISTERED ON THE DEVELOPER'S REFERRAL LINK!
 Binance: [Registration by referral link](https://accounts.binance.com/ru/register?ref=NYGPPWD2)  
