@@ -23,7 +23,7 @@ There is a referral system in the bot: the person you brought can enter the BEP2
 
 ### Useful Resources:
 *[abot-config.ru](https://abot-config.ru/?utm_source=github&utm_medium=github&utm_campaign=readme) from *[@YaroslavMolchan](https://t.me/yaroslavmolchan)**  
-*[stats.abot.su](https://stats.abot.su/panel/?utm_source=github&utm_medium=github&utm_campaign=panel) from *[@DizzyUp](https://t.me/dizzyup)**
+*[stats.abot.su](https://stats.abot.su/?utm_source=github&utm_medium=github&utm_campaign=panel) from *[@DizzyUp](https://t.me/dizzyup)**
 
 ### Useful links:
 *[A complete guide to run A-Bot](https://abot-config.ru/help/install?utm_source=github&utm_medium=github&utm_campaign=readme)* — a detailed guide on setting up API, Telegram, creating a server, as well as setting up and running a bot  
