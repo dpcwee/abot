@@ -44,13 +44,13 @@ The bot works according to the averaging strategy. The essence of the strategy i
 ![](./screen/9_en.png)  
 
 ### Order statuses:
-![](./screen/img-12.png) — Buy order executed
-![](./screen/img-13.png) — Placed a sell order 
+![](./screen/img-12.png) — Buy order executed  
+![](./screen/img-13.png) — Placed a sell order  
 ![](./screen/img-14.png) — Sell order is executed, position is closed  
-![](./screen/img-15.png) — Sell order canceled for averaging 
-![](./screen/img-16.png) — Sell order canceled and trailing stop activated 
+![](./screen/img-15.png) — Sell order canceled for averaging  
+![](./screen/img-16.png) — Sell order canceled and trailing stop activated  
 ![](./screen/img-17.png) — Partial sale of a position by trailing at the market  
-![](./screen/img-18.png) — Full sale of a position by trailing, the position is closed
+![](./screen/img-18.png) — Full sale of a position by trailing, the position is closed  
 
 ### Command parameters:
 * `-u` — Update the bot to the latest version 
