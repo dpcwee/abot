@@ -113,6 +113,8 @@ Referal ID: `NYGPPWD2`**
 ![](./screen/img-7.png)  
 
 ### Инструкция для включения уведомлений в Telegram:
+*[Настройка Telegram с пункта 1.4](https://abot-config.ru/help/windows-install)*
+**ИЛИ**
 1. Обращаемся к [BotFather'у](https://t.me/botfather) в Telegram и создаём нового бота (вводим команду /newbot или выбираем её через контекстное меню)  
 2. Вводим любое имя бота  
 3. Далее придумываем уникальный юзернейм для бота, который оканчивается на 'bot' (например ***exambot_abot***)  
