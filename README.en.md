@@ -31,7 +31,7 @@ There is a referral system in the bot: the person you brought can enter the BEP2
 *[Screen commands for the server](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — how to make A-Bot work in the background on Linux  
 *[A-Bot calculator](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — calculation of future averages based on the buy_down, step_aver and quantity_aver parameters  
 *[Averaging calculator](https://abot-config.ru/calculator-mid?utm_source=github&utm_medium=github&utm_campaign=readme)* — calculation of the average purchase price based on the trading history   
-*[Compound interest](https://wpcalc.com/slozhnyj-procent/)* — calculation of the return on investment for the selected period
+*[Compound interest](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — calculation of the return on investment for the selected period
 *[Monthly statistics](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — Monthly income graph from *Wex3*  
 *[Summary Excel table of profitability](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — a table for calculating the profitability of the bot based on the current values of profitability from *[@aeridiph](https://t.me/aeridiph)*  
 *[ASS © AntiSignalS](https://t.me/antisignals)* — channel with signals from an active member of the community Bi↯llar'a  
