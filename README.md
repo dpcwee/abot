@@ -31,7 +31,7 @@ Referal ID: `NYGPPWD2`**
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
 *[A-Bot калькулятор](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
 *[Калькулятор усреднений](https://abot-config.ru/calculator-mid?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт средней цены покупки по истории торговли   
-*[Сложный процент](https://wpcalc.com/slozhnyj-procent/)* — расчёт доходности от вложенных средств за выбранный период  
+*[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
 *[ASS © AntiSignalS](https://t.me/antisignals)* — канал с сигналами от активного участника комьюнити Bi↯llar'a  
