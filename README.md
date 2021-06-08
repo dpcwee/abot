@@ -34,7 +34,7 @@ Referal ID: `NYGPPWD2`**
 *[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
-*[Складчина Beta](https://mega.nz/file/gMADGSQA#GPyQc8wdMjhAxXWJH1yNiEjZ-gNyZKB8YK9vD1qzQ3Y)* — Таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
+*[Складчина Beta](https://mega.nz/file/oBRlACKL#F0GFVb4qr2uXtk95hnTKVpMsojPnrDho2-6CzOMlJL8)* — Таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
 *[ASS © AntiSignalS](https://t.me/antisignals)* — канал с сигналами от активного участника комьюнити *Bi↯llar'a*  
 
 ### Форумы:
