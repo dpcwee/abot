@@ -32,11 +32,11 @@ Referal ID: `NYGPPWD2`**
 *[A-Bot калькулятор](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
 *[Калькулятор усреднений](https://abot-config.ru/calculator-mid?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт средней цены покупки по истории торговли   
 *[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
-*[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — График месячного дохода от *Wex3*  
+*[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — график месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
-*[Складчина Beta](https://mega.nz/file/NABhlASZ#ZGSt1kBEwM1aEScdZAawYrujQO4Rrcamu0aTkngM2rA)* — Таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
-*[Расчёт усреднений](https://mega.nz/file/pZBFzASD#F0GFVb4qr2uXtk95hnTKVpMsojPnrDho2-6CzOMlJL8)* — Таблица расчёта цены и объёма ордеров для усреднений от *[@Deltores](https://t.me/deltores)*  
-*[ASS © AntiSignalS](https://t.me/antisignals)* — канал с сигналами от активного участника комьюнити *Bi↯llar'a*  
+*[Складчина Beta](https://mega.nz/file/NABhlASZ#ZGSt1kBEwM1aEScdZAawYrujQO4Rrcamu0aTkngM2rA)* — таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
+*[Расчёт усреднений](https://mega.nz/file/pZBFzASD#F0GFVb4qr2uXtk95hnTKVpMsojPnrDho2-6CzOMlJL8)* — таблица расчёта цены и объёма ордеров для усреднений от *[@Deltores](https://t.me/deltores)*  
+*[ASS © AntiSignalS](https://t.me/antisignals)* — канал с сигналами и полезной аналитикой от активного участника комьюнити *Bi↯llar'a*  
 
 ### Форумы:
 *[Cryptotalk](https://cryptotalk.org/topic/332721-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bits.Media](https://forum.bits.media/index.php?/topic/178120-a-bot-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D1%82-%D0%B4%D0%BB%D1%8F-binance/)* *[Bitcointalk](https://bitcointalk.org/index.php?topic=5301070)* *[Mining-Hub](https://mininghub.cc/threads/474/)*
