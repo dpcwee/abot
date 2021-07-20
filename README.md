@@ -29,7 +29,7 @@ Referal ID: `NYGPPWD2`**
 *[Полное руководство по запуску бота](https://abot-config.ru/help/install?utm_source=github&utm_medium=github&utm_campaign=readme)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
 *[Google Cloud](https://dpcwee.medium.com/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-6-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-google-cloud-1da76f2f62fd)* — гайд на получение бесплатного сервера для бота  
 *[Screen команды для сервера](http://itautsors.ru/ispolzuem-komandu-screen-v-linux)* — работа бота в фоновом режиме на линуксе  
-*[Расширенная информация на Linux](https://github.com/xoen90/gem_abot-info)* — инструмент для получения детальной информации по открытым позициям для пользователей бота на Linux  
+*[Расширенная информация на Linux](https://github.com/xoen90/gem_abot-info)* — инструмент для получения детальной информации по открытым позициям для пользователей бота на Linux by *[@xoen88](https://t.me/xoen88)**  
 *[A-Bot калькулятор](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
 *[Калькулятор усреднений](https://abot-config.ru/calculator-mid?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт средней цены покупки по истории торговли   
 *[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
