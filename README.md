@@ -1,8 +1,7 @@
 ## A-Bot  
-[Switch to english version](README.en.md) 
+[Switch to english version](README.en.md) **A-Bot does not work on US accounts and IP!**  
 
 **Никаких других официальных сайтов с репозиториями и контактами, кроме GitHub и Telegram, у проекта нет!**  
-**A-Bot does not work on US accounts and IP!**  
 
 Бесплатный спотовый бот для алгоритмической мультивалютной торговли на бирже Binance, поддерживающий ручную и полностью автоматическую торговлю.    
 
