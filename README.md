@@ -94,8 +94,8 @@ Referal ID: `NYGPPWD2`**
 * Желательный минимальный депозит для комфортной работы бота на любом рынке составляет от 1000-2000$  
 
 ### Запуск:
-*Windows (только 10-я 64-битная)*: Скачайте **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest)** и запустите программу  
-*Linux (минимум 18.04)*: Скачайте **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**  
+*Windows (>8, >Server 2012)*: Скачайте **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest)** и запустите программу  
+*Linux (Ubuntu >18.04; Debian >9; CentOS >8)*: Скачайте **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**  
 (`wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`,  где вместо ***ВЕРСИЯ*** укажите последнюю версию),  
 дайте ему права командой `chmod 755 A-Bot`, после чего запустите командой `./A-Bot`  
 
