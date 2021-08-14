@@ -122,13 +122,14 @@ Referal ID: `NYGPPWD2`**
 5) В случае перезагрузки сервера (reboot или другой апокалипсис), подключаемся к серверу и повторяем описанный цикл с 1-го пункта  
 
 ### Параметры API настройки:
-* API ключи — пара API ключей (api и secret) для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
-* referral — ID Вашего аккаунта на Binance, зарегистрированного по нашему приглашению ([Referal ID](https://www.binance.com/ru/my/dashboard) — слева вверху в личном кабинете)  
-* BEP20-кошелёк — адрес человека на Binance в сети Binance Smart Chain (BSC), который рассказал Вам о боте  
-* tg_notification — Уведомления в Telegram о закрытых сделках, суточной статистике и текущая сводка в шапке канала  
-  * tg_token — токен, выданный [@BotFather](https://t.me/botfather) при создании Telegram-бота  
-  * tg_name — <@name> или <chat_id> для отправки уведомлений. Бот, созданный на предыдущем шаге, должен состоять в группе/канале и быть её администратором с включенными возможностями публикации сообщений и изменения профиля  
-  * user_id —  id Telegram аккаунта, нужный для управления торговым ботом через Telegram-бота, который можно получить у [@userinfobot](https://t.me/userinfobot), написав ему /start или нажав кнопку "Запустить".
+* API ключи — Пара API ключей (`api` и `secret`) для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
+* `referral` — ID Вашего аккаунта на Binance, зарегистрированного по нашему приглашению ([Referal ID](https://www.binance.com/ru/my/dashboard) — слева вверху в личном кабинете)  
+* BEP20-кошелёк — адрес человека на Binance в сети Binance Smart Chain (BSC BEP20), который рассказал Вам о боте  
+* `abot_stats` — Отправлять торговую статистику на сайт статистики *[stats.abot.su](https://stats.abot.su/?utm_source=github&utm_medium=github&utm_campaign=panel)?
+* `tg_notification` — Уведомления в Telegram о закрытых сделках, суточной статистике и текущая сводка в шапке канала  
+  * `tg_token` — Токен, выданный [@BotFather](https://t.me/botfather) при создании Telegram-бота  
+  * `tg_name` — <@name> или <chat_id> для отправки уведомлений. Бот, созданный на предыдущем шаге, должен состоять в группе/канале и быть её администратором с включенными возможностями публикации сообщений и изменения профиля  
+  * `user_id` —  ID Telegram-аккаунта, нужный для управления торговым ботом через Telegram-бота, который можно получить у [@userinfobot](https://t.me/userinfobot), написав ему /start или нажав кнопку "Запустить".
 
 ![](./screen/img-7.png)  
 
