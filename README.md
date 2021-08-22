@@ -40,7 +40,7 @@ Referal ID: `NYGPPWD2`**
 *[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — график месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
-*[Складчина](https://mega.nz/file/BJJFhIjQ#-yBp78L4JlzYTJice5CSQSdbHlnGQNn26WwTq3A77d8)* — таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
+*[Складчина](https://mega.nz/file/FFJxDCpA#DhJCXk2mg-acUNQ2ArHQnyC3P7omSAj2vwILzSOgFgk)* — таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
 *[Расчёт усреднений](https://mega.nz/file/pZBFzASD#F0GFVb4qr2uXtk95hnTKVpMsojPnrDho2-6CzOMlJL8)* — таблица расчёта цены и объёма ордеров для усреднений от *[@Deltores](https://t.me/deltores)*  
 *[ASS © AntiSignalS](https://t.me/antisignals)* — канал с сигналами и полезной аналитикой от активного участника комьюнити *Bi↯llar'a*  
 
