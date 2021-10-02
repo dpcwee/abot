@@ -36,6 +36,7 @@ Referal ID: `NYGPPWD2`**
 *[A-Bot калькулятор](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
 *[Калькулятор усреднений](https://abot-config.ru/calculator-mid?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт средней цены покупки по истории торговли   
 *[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
+*[Стратегия 92%](https://mega.nz/file/1J40XYRB#J9CTFobBVL1befUXbCQmV3YKulxY7WU8Mke1RWRMC1k)* — стратегия сохранения депозита вплоть до 70% падения рынка от *[@freebar4ik](@freebar4ik)*  
 *[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — график месячного дохода от *Wex3*  
 *[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
 *[Складчина](https://mega.nz/file/sARCGZ5a#NdmI2Cvebd56B4zBXQb_fsGBIqqR8sOx1bV5lw-uxiE)* — таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
