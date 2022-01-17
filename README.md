@@ -1,5 +1,4 @@
-## A-Bot  
-[Telegram-канал со сделками](https://t.me/fedordynamics)  
+## A-Bot   
 **A-Bot does not work on US accounts and IP!**  
 
 **Никаких других официальных сайтов с репозиториями и контактами, кроме GitHub и Telegram, у проекта нет!**  
