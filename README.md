@@ -25,7 +25,7 @@ Referal ID: `C2GCPXJA`**
 *[Официальный чат Telegram](https://t.me/abot_chat)* — для обсуждений, связи с разработчиками и развития проекта  
 
 ### Полезные ресурсы:
-*[abot-trade.ru](https://abot-trade.ru/)  
+*[abot-trade.ru](https://abot-trade.ru/)*  
 *[abot-config.ru](https://abot-config.ru/?utm_source=github&utm_medium=github&utm_campaign=readme) от *[@YaroslavMolchan](https://t.me/yaroslavmolchan)**  
 *[stats.abot.su](https://stats.abot.su/?utm_source=github&utm_medium=github&utm_campaign=panel) от *[@DizzyUp](https://t.me/dizzyup)**
 
