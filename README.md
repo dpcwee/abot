@@ -135,8 +135,8 @@ Referal ID: `C2GCPXJA`**
 
 ![](./screen/img-7.png)  
 
-### **[Настройка Telegram](https://abot-trade.ru/connection)**:
-**[Настройка Telegram](https://abot-trade.ru/connection)**  
+### Настройка Telegram:
+**[Инструкция настройки Telegram бота и канала](https://abot-trade.ru/connection)**  
 Каждый раз, когда бот полностью закрывает позицию на продажу, Вы будете получать уведомление в Ваш канал.  
 Если Ваш личный Telegram-бот не отвечает на сообщения, попробуйте: написать Telegram-боту /start, проверить работоспособность или перезапустить A-Bot  
 
