@@ -29,6 +29,7 @@ Referal ID: `C2GCPXJA`**
 *[stats.abot.su](https://stats.abot.su/?utm_source=github&utm_medium=github&utm_campaign=panel) от *[@DizzyUp](https://t.me/dizzyup)**
 
 ### Полезные ссылки:
+*[Мануал по торговым настройкам бота](https://dpcwee.medium.com/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D0%BD%D1%83%D0%B0%D0%BB-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%D0%BC-%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-a-bot-98dcc2dcdc38)* — расширенная инструкция по каждой настройке бота с визуальными примерами  
 *[Полное руководство по запуску бота](https://abot-trade.ru/registration)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
 *[Расширенная информация на Linux](https://github.com/xoen90/gem_abot-info)* — инструмент для получения детальной информации по открытым позициям для пользователей бота на Linux by *[@xoen88](https://t.me/xoen88)*  
 *[A-Bot калькулятор](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
