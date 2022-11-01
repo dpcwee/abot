@@ -30,14 +30,7 @@ Referal ID: `C2GCPXJA`**
 ### Полезные ссылки:
 *[Мануал по торговым настройкам бота](https://dpcwee.medium.com/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D0%BD%D1%83%D0%B0%D0%BB-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%D0%BC-%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-a-bot-98dcc2dcdc38)* — расширенная инструкция по каждой настройке бота с визуальными примерами  
 *[Полное руководство по запуску бота](https://abot-trade.ru/registration)* — подробный гайд по настройке API, Telegram, созданию сервера, а также настройке и запуску бота  
-*[Расширенная информация на Linux](https://github.com/xoen90/gem_abot-info)* — инструмент для получения детальной информации по открытым позициям для пользователей бота на Linux by *[@xoen88](https://t.me/xoen88)*  
-*[A-Bot калькулятор](https://abot-config.ru/calculator?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт будущих усреднений, исходя из параметров buy_down, step_aver и quantity_aver  
-*[Калькулятор усреднений](https://abot-config.ru/calculator-mid?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт средней цены покупки по истории торговли   
-*[Сложный процент](https://abot-config.ru/calculator-percent?utm_source=github&utm_medium=github&utm_campaign=readme)* — расчёт доходности от вложенных средств за выбранный период  
 *[Стратегия 92%](https://mega.nz/file/8Y4lmK5B#TAKw4qm_eLcCLEh48zX0HjLATPI0YXEGqaKMNSQQqhc)* — стратегия сохранения депозита вплоть до 70% падения рынка от *[@freebar4ik](@freebar4ik)* & *[@volksacriph](@volksacriph)*  
-*[Месячная статистика](https://mega.nz/file/MMpQFYZS#D07V4GnURzAu9oEh6ddDe-JnXym2FOpdI_2obedFhKU)* — график месячного дохода от *Wex3*  
-*[Сводная эксель-таблица доходности](https://mega.nz/file/gUwQAQDT#ooSVkOJapIkx4_RN22a3O98upz3DFDftPLEkZseLHrU)* — таблица для расчёта доходности бота исходя из текущих значений прибыльности от *[@aeridiph](https://t.me/aeridiph)*  
-*[Складчина](https://mega.nz/file/sARCGZ5a#NdmI2Cvebd56B4zBXQb_fsGBIqqR8sOx1bV5lw-uxiE)* — таблица расчёта долей каждого участника в складчине от *Wex3* и *[@Deltores](https://t.me/deltores)*  
 *[Расчёт усреднений](https://mega.nz/file/wMY0CY4Y#kiz2lgoDIKGae4uxqvuPvWBcolDwKseQhv5qkHmBEaQ)* — таблица расчёта цены и объёма ордеров для усреднений от *[@dpcwee](https://t.me/dpcwee)*  
 
 ### Описание стратегии:
