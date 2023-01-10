@@ -96,7 +96,8 @@ Referal ID: `C2GCPXJA`**
 ### Запуск:
 *Windows (>8, >Server 2012)*: Скачайте **[A-Bot.exe](https://github.com/dpcwee/abot/releases/latest)** и запустите программу  
 *Linux (Ubuntu >18.04; Debian >9; CentOS >8)*: Скачайте **[A-Bot](https://github.com/dpcwee/abot/releases/latest)**  
-(в терминале на сервере введите `wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`,  где вместо ***ВЕРСИЯ*** укажите последнюю версию),  
+(в терминале на сервере введите  
+`wget https://github.com/dpcwee/abot/releases/download/ВЕРСИЯ/A-Bot`, где вместо ***ВЕРСИЯ*** укажите последнюю версию),  
 дайте ему права командой `chmod 755 A-Bot`, после чего запустите командой `./A-Bot`  
 
 ### Обновление:
