@@ -119,7 +119,7 @@ Referal ID: `C2GCPXJA`**
 * API ключи — Пара API ключей (`api` и `secret`) для обращения к Binance ([API-Management](https://www.binance.com/ru/usercenter/settings/api-management))  
 * `referral` — ID Вашего аккаунта на Binance ([ID Пользователя](https://www.binance.com/ru/my/dashboard) — слева вверху в личном кабинете)  
 * BEP20-кошелёк — адрес человека на Binance в сети Binance Smart Chain (BSC BEP20), который рассказал Вам о боте  
-* `tv_hash` — Ваш личный хэш для работы бота с сигналами от TradingView
+* `hash` — Ваш личный хэш для работы бота с сигналами от TradingView или POST запросами
 * `abot_stats` — Отправлять торговую статистику на сайт статистики *[stats.abot.su](https://stats.abot.su/?utm_source=github&utm_medium=github&utm_campaign=panel)*?
 * `tg_notification` — Уведомления в Telegram о закрытых сделках, суточной статистике и текущая сводка в шапке канала  
   * `tg_token` — Токен, выданный [@BotFather](https://t.me/botfather) при создании Telegram-бота  
