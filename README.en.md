@@ -1,4 +1,4 @@
-## A-Bot [[EN](https://github.com/dpcwee/abot)]  
+## A-Bot [[en](https://github.com/dpcwee/abot)]  
 
 A spot bot for algorithmic multivurrency trading on the Binance exchange, supporting both manual and fully automated trading.  
 
