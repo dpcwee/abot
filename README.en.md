@@ -1,4 +1,4 @@
-## A-Bot  
+## A-Bot [[EN](https://github.com/dpcwee/abot)]  
 
 A spot bot for algorithmic multivurrency trading on the Binance exchange, supporting both manual and fully automated trading.  
 
@@ -232,54 +232,54 @@ All of them are activated via a common key --conf either by entering the keys wh
 
 ![](./screen/img-27.png)
 
-***Simple ones - with one/few static values***
+***Simple ones — with one/few static values***
 
-* `mop` (activated by the command ***--conf mop NUMBER***) - Automatically calculate the min_order based on the free balance if progressive_max_pairs is enabled, otherwise based on the total balance. The bot will make the minimum order such that it works only with the specified NUMBER % of the free/total balance
+* `mop` (activated by the command ***--conf mop NUMBER***) — Automatically calculate the min_order based on the free balance if progressive_max_pairs is enabled, otherwise based on the total balance. The bot will make the minimum order such that it works only with the specified NUMBER % of the free/total balance
 
-* `mlp` (activated by the command ***--conf mlp NUMBER***) - Automatically calculate the listing_order based on the free balance if progressive_max_pairs is enabled, otherwise based on the total balance. The bot will make the minimum order during listing such that it works only with the specified NUMBER % of the free/total balance
+* `mlp` (activated by the command ***--conf mlp NUMBER***) — Automatically calculate the listing_order based on the free balance if progressive_max_pairs is enabled, otherwise based on the total balance. The bot will make the minimum order during listing such that it works only with the specified NUMBER % of the free/total balance
 
-* `mpp` (activated by the command ***--conf mpp NUMBER***) - Automatically calculate the pump_order based on the free balance if progressive_max_pairs is enabled, otherwise based on the total balance. The bot will make the minimum order of the Pump Detector such that it works only with the specified NUMBER % of the free/total balance
+* `mpp` (activated by the command ***--conf mpp NUMBER***) — Automatically calculate the pump_order based on the free balance if progressive_max_pairs is enabled, otherwise based on the total balance. The bot will make the minimum order of the Pump Detector such that it works only with the specified NUMBER % of the free/total balance
 
-* `reverse_sort` (activated by the command ***--conf reverse_sort high***) - Reverse sorting mode by priority of opened positions (not from the most losing, but from the highest growth during the day)
+* `reverse_sort` (activated by the command ***--conf reverse_sort high***) — Reverse sorting mode by priority of opened positions (not from the most losing, but from the highest growth during the day)
 
-* `reverse_average` (activated by the command ***--conf reverse_average high***) - Reverse sorting mode by priority of averaging positions (averaging from the least losing positions to the farthest positions)
+* `reverse_average` (activated by the command ***--conf reverse_average high***) — Reverse sorting mode by priority of averaging positions (averaging from the least losing positions to the farthest positions)
 
-* `trailing_stop` (activated by the command ***--conf trailing_stop long***) - Long trailing of positions (without stop-loss trigger, position selling will occur in parts by trailing_part until coins in the position run out)
+* `trailing_stop` (activated by the command ***--conf trailing_stop long***) — Long trailing of positions (without stop-loss trigger, position selling will occur in parts by trailing_part until coins in the position run out)
 
-* `row_sell` (activated by the command ***--conf row_sell reset***) - Reset rowSell multiplier to x1 instead of reducing it by the number of averages in the last sale
+* `row_sell` (activated by the command ***--conf row_sell reset***) — Reset rowSell multiplier to x1 instead of reducing it by the number of averages in the last sale
 
-* `stop_loss` (activated by the command ***--conf stop_loss NUMBER***) - Enable stop-loss to exit positions if the market price of such assets has fallen by NUMBER% relative to the average entry price
+* `stop_loss` (activated by the command ***--conf stop_loss NUMBER***) — Enable stop-loss to exit positions if the market price of such assets has fallen by NUMBER% relative to the average entry price
 
-* `listing_timer` (activated by the command ***--conf listing_timer NUMBER***) - After how many seconds (default is 3600) to remove the coin from the new_listing status after listing the pair, if the number of sales has not reached max_buy_listing since the pair was listed
+* `listing_timer` (activated by the command ***--conf listing_timer NUMBER***) — After how many seconds (default is 3600) to remove the coin from the new_listing status after listing the pair, if the number of sales has not reached max_buy_listing since the pair was listed
 
-* `row_timer` (activated by the command ***--conf row_timer NUMBER***) - Reset the row_sell multiplier of the position if its length is greater than the specified time in seconds (default is 3600)
+* `row_timer` (activated by the command ***--conf row_timer NUMBER***) — Reset the row_sell multiplier of the position if its length is greater than the specified time in seconds (default is 3600)
 
-* `pump_value key` (activated by the command ***--conf pump_value NUMBER***) - The minimum daily trading volume in USD equivalent to open a position based on a pump detector signal
+* `pump_value key` (activated by the command ***--conf pump_value NUMBER***) — The minimum daily trading volume in USD equivalent to open a position based on a pump detector signal
 
-* `pump_signal key` (activated by the command ***--conf pump_signal qm1-q2-q1...***, where q1, q2, q3, qm1, qm2, qm3 are the types of signals detected by the pump detector) - The pump detector will only work based on the signal types specified in the key
+* `pump_signal key` (activated by the command ***--conf pump_signal qm1-q2-q1...***, where q1, q2, q3, qm1, qm2, qm3 are the types of signals detected by the pump detector) — The pump detector will only work based on the signal types specified in the key
 
-* `daily_percent` (activated by the command ***--conf daily_percent [MIN:MAX/MIN:MAX/...]***) - Several ranges for the min_daily_percent parameter (***MIN***) and daily_percent (***MAX***) with the delimiter ***:*** between the minimum and maximum values, listed through ***/***. The order of listing does not matter and the number of ranges is unlimited
+* `daily_percent` (activated by the command ***--conf daily_percent [MIN:MAX/MIN:MAX/...]***) — Several ranges for the min_daily_percent parameter (***MIN***) and daily_percent (***MAX***) with the delimiter ***:*** between the minimum and maximum values, listed through ***/***. The order of listing does not matter and the number of ranges is unlimited
 
-* `super_list` (activated by the command ***--conf super_list ADA-XRP-BNB-...-n***, where coins are separated by a hyphen and the number of coins is unlimited) - The user's super-list of coins that are exempt from trading settings for buying (except for double_asset and min_balance). In other words, when a coin from the super-list is sold, the bot will not analyze trading parameters and restrictions that would prevent the bot from opening a position again on that coin and will buy it immediately after the sale (a certain infinite trading).
+* `super_list` (activated by the command ***--conf super_list ADA-XRP-BNB-...-n***, where coins are separated by a hyphen and the number of coins is unlimited) — The user's super-list of coins that are exempt from trading settings for buying (except for double_asset and min_balance). In other words, when a coin from the super-list is sold, the bot will not analyze trading parameters and restrictions that would prevent the bot from opening a position again on that coin and will buy it immediately after the sale (a certain infinite trading).
 
 ***Grid-based - each number in the series corresponds to a quantitative averaging index for the position***
 
-* `step_aver` (activated by the command ***--conf step_aver 2.25-5-3-...-n***) - A manual grid of percentage step_aver, which increases by a specified number for each averaging.
+* `step_aver` (activated by the command ***--conf step_aver 2.25-5-3-...-n***) — A manual grid of percentage step_aver, which increases by a specified number for each averaging.
 
 > Instead of specifying one value for the step_aver, which is added to the overall grid for each averaging, you can specify your own values. The hyphens are used to separate the numbers indicating their index in the averaging (after buying a coin, it needs to fall by buy_down% + 0% (the averaging grid is currently zero as there have been no averages) for the first averaging, for the second averaging by buy_down + 0 + NUMBER[2.25], for the third by buy_down + 2.25 + NUMBER[5], for the fourth by buy_down + 7.25 + NUMBER[3], and so on). The numbers are separated by hyphens and may have a remainder, and the number of values is unlimited. If the averaging number exceeds the number of indexes in the numerical series, the step_aver parameter is taken from the settings.
 
 > The other grid keys work similarly.
 
-* `average_percent` (activated by the command ***--conf average_percent 5-7-9.5-...-n***) - A manual grid of percentage average_percent that controls the averaging volume based on the difference between the market price and the new average entry price after averaging
+* `average_percent` (activated by the command ***--conf average_percent 5-7-9.5-...-n***) — A manual grid of percentage average_percent that controls the averaging volume based on the difference between the market price and the new average entry price after averaging
 
-* `quantity_aver` (activated by the command ***--conf quantity_aver 1-1.5-2-...-n***) - A manual grid of averaging volume multiplier quantity_aver for each averaging
+* `quantity_aver` (activated by the command ***--conf quantity_aver 1-1.5-2-...-n***) — A manual grid of averaging volume multiplier quantity_aver for each averaging
 
-* `sell_up` (activated by the command ***--conf sell_up 1.15-0.95-0.77-...-n***) - A manual grid of percentage desired profit from selling the asset, depending on the number of averages in the position
+* `sell_up` (activated by the command ***--conf sell_up 1.15-0.95-0.77-...-n***) — A manual grid of percentage desired profit from selling the asset, depending on the number of averages in the position
 
-* `pump_up` (activated by the command ***--conf pump_up 0.35-0.55-0.4-...-n***) - A manual grid of percentage desired profit from selling assets opened by the Pump Detector
+* `pump_up` (activated by the command ***--conf pump_up 0.35-0.55-0.4-...-n***) — A manual grid of percentage desired profit from selling assets opened by the Pump Detector
 
-* `buy_down` (activated by the command ***--conf buy_down 2.15-3.55-4.8-...-n***) - A manual grid of percentages for the asset price drop from the price of the last purchase/averaging, necessary to perform a new averaging
+* `buy_down` (activated by the command ***--conf buy_down 2.15-3.55-4.8-...-n***) — A manual grid of percentages for the asset price drop from the price of the last purchase/averaging, necessary to perform a new averaging
 
-* `trailing_percent` (activated by the command ***--conf trailing_percent 0.15-0.55-0.8-...-n***) - A manual grid for the desired trailing percent, depending on the number of averages in the position
+* `trailing_percent` (activated by the command ***--conf trailing_percent 0.15-0.55-0.8-...-n***) — A manual grid for the desired trailing percent, depending on the number of averages in the position
 
 ![](./screen/img-24.png)
