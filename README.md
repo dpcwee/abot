@@ -1,4 +1,4 @@
-## A-Bot [[RU](https://github.com/dpcwee/abot/blob/main/README.en.md)]  
+## A-Bot [[ru](https://github.com/dpcwee/abot/blob/main/README.en.md)]  
 
 Спотовый бот для алгоритмической мультивалютной торговли на бирже Binance, поддерживающий ручную и полностью автоматическую торговлю.    
 
