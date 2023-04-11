@@ -7,7 +7,7 @@ A spot bot for algorithmic multivurrency trading on the Binance exchange, suppor
 
 **The bot is free to use for Binance accounts registered through the developer's referral link. For other users, there is a subscription fee for the convenient use of the bot, which will be described later.  
 New users who are not developers' referrals receive a $10 bonus upon the bot's first launch.  
-Binance: [Registration through the referral link](https://accounts.binance.com/en/register?ref=C2GCPXJA)  
+Binance: [Registration through the referral link](https://accounts.binance.info/register?ref=C2GCPXJA)  
 Referal ID: `C2GCPXJA`**  
 
 ### Referral program
