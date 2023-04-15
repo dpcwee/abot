@@ -262,6 +262,8 @@ All of them are activated via a common key --conf either by entering the keys wh
 
 * `daily_percent` (activated by the command ***--conf daily_percent [MIN:MAX/MIN:MAX/...]***) — Several ranges for the min_daily_percent parameter (***MIN***) and daily_percent (***MAX***) with the delimiter ***:*** between the minimum and maximum values, listed through ***/***. The order of listing does not matter and the number of ranges is unlimited
 
+* `volatility` (activated by the command ***--conf volatility [MIN:MAX/MIN:MAX/...]***) — The range of values for volatility (volatility index for each pair) with a separator of ***:*** between the minimum and maximum values (***MIN*** and ***MAX***), listed via ***/***. The listing order is not important, and the number of ranges is unlimited. The bot will only open positions for pairs whose volatility index falls within the specified ranges.
+
 * `super_list` (activated by the command ***--conf super_list ADA-XRP-BNB-...-n***, where coins are separated by a hyphen and the number of coins is unlimited) — The user's super-list of coins that are exempt from trading settings for buying (except for double_asset and min_balance). In other words, when a coin from the super-list is sold, the bot will not analyze trading parameters and restrictions that would prevent the bot from opening a position again on that coin and will buy it immediately after the sale (a certain infinite trading).
 
 ***Grid-based - each number in the series corresponds to a quantitative averaging index for the position***
